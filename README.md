@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year engineering student passionate about embedded systems, software development, and cars!<br>💻 Skilled in Flutter, embedded systems troubleshooting, and automotive tech.<br>🔧 Currently building a car parking booking app in Flutter and working on the 'Coding Calendar' project.<br>🚗 Automotive enthusiast with a future goal of exploring autonomous vehicle tech in the field of embedded!
+🎓 Third-year engineering student passionate about embedded systems, software development, and cars!<br>💻 Skilled in Flutter, embedded systems troubleshooting, and automotive tech.<br>🔧 Currently building a car parking booking app in Flutter and working on our SIH project named CodeSync .<br>🚗 Automotive enthusiast with a future goal of exploring autonomous vehicle tech in the field of embedded!
 
 
 ## 🌐 Socials:
